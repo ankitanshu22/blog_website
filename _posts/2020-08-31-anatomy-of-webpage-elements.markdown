@@ -1,16 +1,10 @@
 ---
 layout: post
-title:  "Neumorphism"
+title:  "Neumorphism - The 2020 Design Trend"
 date:   2020-08-31 03:19:01 +0530
 categories:
 author: Ankitanshu Swaroop
 ---
-
-# Neumorphism the right way — A 2020 Design Trend
-
-Aliens attack Earth and their font of choice is Calibre.
-
-*As for everything exciting and new, I tend to approach every piece of writing as a child would, hence I am ALWAYS tempted to mash information on a particular subject in one body of work rather than a series of separate articles that break the topic in exciting bits. Take every opportunity you have to properly chastise me in the comment section, because I think this would reoccur with this article. I am sorry.*
 
 Today’s discussion is on Neumorphism, a style — or trend — that has designers tumbling over themselves to create mock-ups in. Or have I been scouring through the wrong part of the web?
 
