@@ -3,6 +3,7 @@ layout: post
 title:  "Neumorphism - The 2020 Design Trend"
 date:   2020-08-31 03:19:01 +0530
 categories:
+comments: true
 author: Ankitanshu Swaroop
 ---
 
