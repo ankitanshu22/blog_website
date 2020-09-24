@@ -29,7 +29,7 @@ This method rotates an element around its beginning by an angle indicated around
 The transform: rotate() method can take values in angle units. Corner units are defined by the CSS module of values and units of level 3. These can be deg (degrees), rad (radians), grad (gradians), or turn (units of turnover). One full turn is equal to 360deg, 6.28rad, 400grad or 1turn.
 >  For example: the value of the method transform: rotate(), exceeding one turn 360deg. *transform: *rotate(540deg) or *transform: *rotate(1.5turn), statically displaying according to their residual value. In other words, 540deg will be displayed in the same way as 180deg (540deg-360deg), and 1.5turn as .5turn (1.5–1). If we will use on rotate(540deg) method, some animation or transition property, then it will turn this element 1.5 times with animation effect on it.
 
-## scale(), scaleX(), и scaleY() methods
+## scale(), scaleX() and scaleY() methods
 
 With the scale() method, we can increase or decrease the displayed element size in the X-dimension scaleX(), Y-dimension scaleY(), or both of them scale(). The example of this method is illustrated below, where the dotted border indicates the original size of the element, and the + sign denotes its center point.
 
@@ -88,4 +88,4 @@ skewY sets the bevel of the element vertically. Below is an example of how this 
 
 ## Conclusion
 
-In conclusion, I would like to say that together with the **transform **we got a lot of new opportunities to make our web page more beautiful and modern. And most importantly, it made life easier for web developers. Thanks to CSS3 2D Transforms.
+In conclusion, I would like to say that together with the **transform** we got a lot of new opportunities to make our web page more beautiful and modern. And most importantly, it made life easier for web developers. Thanks to CSS3 2D Transforms.
