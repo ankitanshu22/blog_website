@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2D Transform Methods in CSS3"
-date:   2020-09-25 01:58:00 +0530
+date:   2020-07-25 01:58:00 +0530
 categories:
 comments: true
 author: Ankitanshu Swaroop
